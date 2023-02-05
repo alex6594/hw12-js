@@ -1,0 +1,9 @@
+.text__clear {
+  font-family: Arial;
+  width: 75px;
+  background: green;
+  padding: 10px 10px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
